@@ -11,7 +11,7 @@ React Native component used to highlight words within a larger body of text. Thi
 Using [npm](https://www.npmjs.com/package/rn-highlight-words):
 
 ```
-npm i --save rn-highlight-words
+npm i --save react-native-highlight-words
 ```
 
 ## Usage
