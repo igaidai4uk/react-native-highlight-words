@@ -9,8 +9,8 @@ Highlighter.propTypes = {
     searchWords: PropTypes.arrayOf(PropTypes.string).isRequired,
     textToHighlight: PropTypes.string.isRequired,
     sanitize: PropTypes.func,
-    onPressNormalText = PropTypes.func,
-    onPressHighlightedText = PropTypes.func,
+    onPressNormalText: PropTypes.func,
+    onPressHighlightedText: PropTypes.func,
     style: Text.propTypes.style
 };
 
